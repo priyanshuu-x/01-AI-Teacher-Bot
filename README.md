@@ -45,6 +45,12 @@ Run the project:
 ```bash
 python main.py
 ```
+## 📖 What I Learned
+
+- How to connect LangChain with Ollama
+- How ChatPromptTemplate works
+- How invoke() executes a chain
+- How to build reusable prompts
 
 ## 🖼️ Demo
 
