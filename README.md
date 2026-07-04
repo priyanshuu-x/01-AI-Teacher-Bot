@@ -1,4 +1,4 @@
-# AI Teacher Bot
+# 🤖 AI Teacher Bot using LangChain & Ollama
 
 ## 📌 Overview
 
